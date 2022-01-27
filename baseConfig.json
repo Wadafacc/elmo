@@ -1,0 +1,6 @@
+{
+    "token": "token-goes-here",
+    "prefix": "!",
+    "clientId": "application id from dev portal",
+    "guildId": "optional, guild ID"
+}
