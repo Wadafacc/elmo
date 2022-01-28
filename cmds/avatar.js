@@ -10,6 +10,7 @@ module.exports = {
 
         const user = interaction.options.getUser('target');
         const e = new MessageEmbed()
+            .setColor('#820707')
             .setTitle(user.tag)
             .setAuthor({ name: interaction.guild.me.displayName, iconURL: interaction.client.user.avatarURL() })
             .setImage(user.displayAvatarURL({ dynamic: true }));
