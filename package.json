@@ -11,9 +11,12 @@
   "license": "ISC",
   "dependencies": {
     "@discordjs/rest": "^0.3.0",
+    "axios": "^0.25.0",
     "discord-api-types": "^0.26.1",
+    "discord-player": "^5.2.1",
     "discord.js": "^13.6.0",
     "node-fetch": "^3.2.0",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   }
 }

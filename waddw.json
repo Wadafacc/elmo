@@ -1,0 +1,292 @@
+{
+    "status": 1,
+    "next_page": 0,
+    "records": [
+        {
+            "county_state": "Maricopa County, AZ",
+            "name": "John Austin Null",
+            "charges": [
+                "(001) Count of AGG ASLT-VIOL PROTECTN ORDER",
+                "(001) Count of AGG ASLT-TEMP DISFIGUREMENT",
+                "(1) Count of AGG ASLT-TEMP DISFIGUREMENT",
+                "(1) Count of AGG ASLT-VIOL PROTECTN ORDER"
+            ],
+            "id": 28020378,
+            "source": "Maricopa County Sheriff's Office",
+            "book_date_formatted": "Jan 09, 2020",
+            "details": [
+                [
+                    "Gender",
+                    "male"
+                ],
+                [
+                    "Age (at arrest)",
+                    36
+                ],
+                [
+                    "Height",
+                    "6'01"
+                ],
+                [
+                    "Weight",
+                    "200"
+                ],
+                [
+                    "Eyes",
+                    "hazel"
+                ],
+                [
+                    "Hair",
+                    "brown"
+                ],
+                [
+                    "Ref #",
+                    "T609695"
+                ]
+            ],
+            "mugshot": "https://imgstore.jailbase.com/small/arrested/az-mcso/2020-01-09/john-austin-null-t609695.pic1.jpg",
+            "book_date": "2020-01-09",
+            "source_id": "az-mcso",
+            "more_info_url": "http://www.jailbase.com/en/az-mcsojohn-austin-null-28020378"
+        },
+        {
+            "county_state": "Maricopa County, AZ",
+            "name": "Michael John Null",
+            "charges": [
+                "(1) Count of DANGEROUS DRUG VIOLATION",
+                "(1) Count of DUI-LIQUOR/DRUGS/VAPORS/COMBO",
+                "(1) Count of DUI/DRUGS/METABOLITE",
+                "(1) Count of DRIVE W/LIC SUSP/REVOKE/CANC"
+            ],
+            "id": 26007826,
+            "source": "Maricopa County Sheriff's Office",
+            "book_date_formatted": "May 01, 2019",
+            "details": [
+                [
+                    "Gender",
+                    "male"
+                ],
+                [
+                    "Age (at arrest)",
+                    46
+                ],
+                [
+                    "Height",
+                    "6'01"
+                ],
+                [
+                    "Weight",
+                    "205"
+                ],
+                [
+                    "Eyes",
+                    "blue"
+                ],
+                [
+                    "Hair",
+                    "brown"
+                ],
+                [
+                    "Ref #",
+                    "T547221"
+                ]
+            ],
+            "mugshot": "https://imgstore.jailbase.com/small/arrested/az-mcso/2019-05-01/michael-john-null-t547221.pic1.jpg",
+            "book_date": "2019-05-01",
+            "source_id": "az-mcso",
+            "more_info_url": "http://www.jailbase.com/en/az-mcsomichael-john-null-26007826"
+        },
+        {
+            "county_state": "Maricopa County, AZ",
+            "name": "John Austin Null",
+            "charges": [
+                "(1) Count of AGGRAVATED ASSAULT",
+                "(1) Count of INTERFER W/JUDICIAL PROCEEDING",
+                "(1) Count of DISORDERLY CONDUCT-FIGHTING"
+            ],
+            "id": 25914401,
+            "source": "Maricopa County Sheriff's Office",
+            "book_date_formatted": "Apr 19, 2019",
+            "details": [
+                [
+                    "Gender",
+                    "male"
+                ],
+                [
+                    "Age (at arrest)",
+                    36
+                ],
+                [
+                    "Height",
+                    "5'11"
+                ],
+                [
+                    "Weight",
+                    "270"
+                ],
+                [
+                    "Eyes",
+                    "hazel"
+                ],
+                [
+                    "Hair",
+                    "brown"
+                ],
+                [
+                    "Ref #",
+                    "T544115"
+                ]
+            ],
+            "mugshot": "https://imgstore.jailbase.com/small/arrested/az-mcso/2019-04-19/john-austin-null-t544115.pic1.jpg",
+            "book_date": "2019-04-19",
+            "source_id": "az-mcso",
+            "more_info_url": "http://www.jailbase.com/en/az-mcsojohn-austin-null-25914401"
+        },
+        {
+            "county_state": "Maricopa County, AZ",
+            "name": "Michael John Null",
+            "charges": [
+                "(1) Count of DANGEROUS DRUG-POSS/USE"
+            ],
+            "id": 21706433,
+            "source": "Maricopa County Sheriff's Office",
+            "book_date_formatted": "Dec 30, 2017",
+            "details": [
+                [
+                    "Gender",
+                    "male"
+                ],
+                [
+                    "Age (at arrest)",
+                    45
+                ],
+                [
+                    "Height",
+                    "6'01"
+                ],
+                [
+                    "Weight",
+                    "205"
+                ],
+                [
+                    "Eyes",
+                    "blue"
+                ],
+                [
+                    "Hair",
+                    "brown"
+                ],
+                [
+                    "Ref #",
+                    "T423955"
+                ]
+            ],
+            "mugshot": "https://imgstore.jailbase.com/small/arrested/az-mcso/2017-12-30/michael-john-null-t423955.pic1.jpg",
+            "book_date": "2017-12-30",
+            "source_id": "az-mcso",
+            "more_info_url": "http://www.jailbase.com/en/az-mcsomichael-john-null-21706433"
+        },
+        {
+            "county_state": "Maricopa County, AZ",
+            "name": "DAVID CHRISTOPHER NULL",
+            "charges": [
+                "ASSAULT-INTENT/RECKLESS/INJURE",
+                "CRIMINAL DAMAGE-DEFACE",
+                "DISORDERLY CONDUCT-FIGHTING"
+            ],
+            "id": 7753048,
+            "source": "Maricopa County Sheriff's Office",
+            "book_date_formatted": "May 17, 2014",
+            "details": [
+                [
+                    "Gender",
+                    "MALE"
+                ],
+                [
+                    "Race",
+                    "WHITE"
+                ],
+                [
+                    "Age (at arrest)",
+                    41
+                ],
+                [
+                    "Height",
+                    "5'10"
+                ],
+                [
+                    "Weight",
+                    "200"
+                ],
+                [
+                    "Eyes",
+                    "BROWN"
+                ],
+                [
+                    "Hair",
+                    "BROWN"
+                ],
+                [
+                    "Ref #",
+                    "#T080736"
+                ]
+            ],
+            "mugshot": "https://imgstore.jailbase.com/small/arrested/az-mcso/2014-05-17/david-christopher-null-t080736.pic1.jpg",
+            "book_date": "2014-05-17",
+            "source_id": "az-mcso",
+            "more_info_url": "http://www.jailbase.com/en/az-mcsodavid-christopher-null-7753048"
+        },
+        {
+            "county_state": "Maricopa County, AZ",
+            "name": "JOHN AUSTIN NULL",
+            "charges": [
+                "DANGEROUS DRUG-POSS/USE",
+                "DRUG PARAPHERNALIA-POSSESS/USE"
+            ],
+            "id": 5721421,
+            "source": "Maricopa County Sheriff's Office",
+            "book_date_formatted": "Aug 27, 2013",
+            "details": [
+                [
+                    "Gender",
+                    "MALE"
+                ],
+                [
+                    "Race",
+                    "WHITE"
+                ],
+                [
+                    "Age (at arrest)",
+                    30
+                ],
+                [
+                    "Height",
+                    "6'01"
+                ],
+                [
+                    "Weight",
+                    "250"
+                ],
+                [
+                    "Eyes",
+                    "HAZEL"
+                ],
+                [
+                    "Hair",
+                    "BROWN"
+                ],
+                [
+                    "Ref #",
+                    "#T005983"
+                ]
+            ],
+            "mugshot": "https://imgstore.jailbase.com/small/arrested/az-mcso/2013-08-27/john-austin-null-t005983.pic1.jpg",
+            "book_date": "2013-08-27",
+            "source_id": "az-mcso",
+            "more_info_url": "http://www.jailbase.com/en/az-mcsojohn-austin-null-5721421"
+        }
+    ],
+    "current_page": 1,
+    "total_records": 6,
+    "msg": ""
+}
